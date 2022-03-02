@@ -1,0 +1,16 @@
+.Media {
+  display: flex;
+  align-items: flex-start;
+}
+
+.Media.Media-reverse {
+  flex-direction: row-reverse;
+}
+
+.Media-figure {
+  margin-right: 1em;
+}
+
+.Media-body {
+  flex: 1;
+}
